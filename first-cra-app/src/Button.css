@@ -1,0 +1,9 @@
+button.warn {
+    background-color: red;
+    color: white
+}
+
+button.success {
+    background-color: green;
+    color: black
+}

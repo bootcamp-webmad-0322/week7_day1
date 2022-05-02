@@ -1,0 +1,12 @@
+button.block {
+    width: 100%
+}
+
+button.dark {
+    background-color: black;
+    color: white
+}
+
+button.warn {
+    background-color: red;
+}
